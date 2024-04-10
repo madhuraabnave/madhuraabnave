@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhura Abnave</h1>
+<h1 align="center">Hi , I'm Madhura Abnave</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif"> 
 
