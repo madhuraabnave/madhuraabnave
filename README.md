@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Madhura Abnave</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif"> 
+<img align="center" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhuraabnave&label=Profile%20views&color=0e75b6&style=flat" alt="madhuraabnave" /> </p>
 
@@ -27,3 +27,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhuraabnave&show_icons=true&locale=en" alt="madhuraabnave" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhuraabnave&" alt="madhuraabnave" /></p>
+
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhuraabnave&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhuraabnave&theme=radical&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhuraabnave&theme=monokai&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhuraabnave&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhuraabnave&theme=github_dark&utcOffset={utcOffset})
+-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhuraabnave&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhuraabnave&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhuraabnave&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhuraabnave&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhuraabnave&theme=2077&utcOffset=8)
+
+<!--
+theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true
+show_icons=true&locale=en&layout=compact&theme=radical
+theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact
+-->
